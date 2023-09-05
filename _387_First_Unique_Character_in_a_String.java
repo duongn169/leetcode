@@ -19,7 +19,7 @@ public class _387_First_Unique_Character_in_a_String {
         return -1;
     }
     public static void main(String[] args) {
-        String s ="leetcode";
+        String s ="leete";
         System.out.println(firstUniqChar(s));
     }
 }
