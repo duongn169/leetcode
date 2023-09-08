@@ -21,7 +21,7 @@ public class _704_Binary_Search {
     }
 
     public static void main(String[] args) {
-        int[] a = {-1,0,3,5,9,12};
-        System.out.println(search(a, 2));
+        int[] a = {1,4,9,12,19,25,31,46,50,57,72};
+        System.out.println(search(a, 30));
     }
 }
