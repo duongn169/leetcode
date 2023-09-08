@@ -13,6 +13,7 @@ public class _509_Fibonacci_Number {
        return F[n];
     }
     public static void main(String[] args) {
-        
+        int n = 8;
+        fib(n);
     }
 }
