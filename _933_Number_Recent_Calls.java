@@ -17,6 +17,6 @@ public class _933_Number_Recent_Calls {
         return myQueue.size();
     }
     public static void main(String[] args) {
-        
+        //Queue
     }
 }
