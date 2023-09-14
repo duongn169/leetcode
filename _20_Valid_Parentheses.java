@@ -28,6 +28,7 @@ public class _20_Valid_Parentheses {
 
     public static void main(String[] args) {
         String s ="([)]";
+        //Stack
         System.out.println(isValid(s));
     }
 }
