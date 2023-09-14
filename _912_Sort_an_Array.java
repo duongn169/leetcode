@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class _912_Sort_an_Array {
 
-
+    //Merge Sort
     public static int[] merge(int[] a1, int[] a2) {
         int n = a1.length + a2.length;
         int[] result = new int[n];
